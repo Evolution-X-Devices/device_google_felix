@@ -36,4 +36,4 @@ include device/google/gs201/BoardConfig-common.mk
 include device/google/felix/sepolicy/felix-sepolicy.mk
 include device/google/felix/wifi/BoardConfig-wifi.mk
 
-include device/google/felix/felix/BoardConfigLineage.mk
+include device/google/felix/felix/BoardConfigEvolution.mk
