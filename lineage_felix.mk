@@ -23,6 +23,9 @@ PRODUCT_SYSTEM_NAME := generic_system_google
 TARGET_SCREEN_HEIGHT := 2092
 TARGET_SCREEN_WIDTH := 1080
 
+# Custom flags
+TARGET_BUILD_DEVICE_AS_WEBCAM := true
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildDesc="felix-user 17 CP2A.260705.006 15641320 release-keys" \
     BuildFingerprint=google/felix/felix:17/CP2A.260705.006/15641320:user/release-keys \
