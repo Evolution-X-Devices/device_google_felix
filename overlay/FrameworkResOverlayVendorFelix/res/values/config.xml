@@ -301,10 +301,4 @@
     <!-- Whether we should persist the brightness value in nits for the default display even if
          the underlying display device changes. -->
     <bool name="config_persistBrightnessNitsForDefaultDisplay">true</bool>
-
-    <!-- Whether to enable app launch blur -->
-    <bool name="config_enableAppLaunchBlur">false</bool>
-
-    <!-- Whether to enable blur expansion (surface blurs) -->
-    <bool name="config_enableBlurExpansion">false</bool>
 </resources>
